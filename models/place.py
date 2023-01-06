@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """ Place Module for HBNB project """
 
 from models.amenity import Amenity
